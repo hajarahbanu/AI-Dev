@@ -1,0 +1,1 @@
+{"Seventeen": {"group": "seventeen", "venue": "tokyo stadium", "time": "6:30 pm"}, "Treasure": {"group": "Treasure", "venue": "Fukoka stadium", "time": "7:30 pm"}, "BoyNextDoor": {"group": "BoyNextDoor", "venue": "Olympic stadium", "time": "9:30 pm"}}
