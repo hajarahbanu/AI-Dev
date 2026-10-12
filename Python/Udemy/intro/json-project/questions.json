@@ -1,0 +1,7 @@
+[{"question_text":"who sang dreamers?",
+ "alternatives":["Jungkook","SVT","Taylor Swift","Shakira"],
+ "answer":1},
+{"question_text":"who won last world cup?", 
+"alternatives":["Portugal","Argentina","Qatar","Japan"],
+"answer":2}
+]
